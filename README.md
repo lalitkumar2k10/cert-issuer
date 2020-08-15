@@ -30,7 +30,9 @@ experimenting only.
     ```
     docker build -t bc/cert-issuer:1.0 .
     ```
-Note: If above do not work use sudo
+Note: 
+- If above do not work use sudo
+- If fails for lxml: https://lxml.de/installation.html 
 
 
 4. Read before running!
