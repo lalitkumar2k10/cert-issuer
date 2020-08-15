@@ -17,3 +17,5 @@ docker-machine version 0.8.0, build b85aac1
 ```
 
 If any of the above steps fail, then your Docker installation needs to be fixed before proceeding. You can look for help at Docker's sites, for example the [Docker Forums](https://forums.docker.com/).
+
+Install: https://docs.docker.com/engine/install/ubuntu/
